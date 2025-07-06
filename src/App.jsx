@@ -231,7 +231,7 @@ function App() {
         <div className="footer-content">
           <div className="footer-left">
             <a
-              href="https://github.com/camco/Slicer-Settings"
+              href="https://github.com/Juniormunk/Slicer-Settings"
               target="_blank"
               rel="noopener noreferrer"
               className="footer-link"
